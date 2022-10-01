@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 	<a href="https://twitter.com/uday3prakash" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 	<a href="https://www.linkedin.com/in/udhayprakashpethakamsetty/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=udhayprakash/PythonMaterial,udhayprakash/GoLangMaterial,udhayprakash/DataScienceMaterial,udhayprakash/Python_for_interview_preparation,udhayprakash/RustMaterial&type=Date)](https://star-history.com/#udhayprakash/PythonMaterial&udhayprakash/GoLangMaterial&udhayprakash/DataScienceMaterial&udhayprakash/Python_for_interview_preparation&udhayprakash/RustMaterial&Date)
