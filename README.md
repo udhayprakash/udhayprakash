@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![udhay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=udhayprakash&hide_border=true&theme=redical)
+
+[![Udhay's GitHub activity graph](https://img.shields.io/github/commit-activity/m/udhayprakash/udhayprakash?label=Commit%20Activity&logo=github&style=flat-square)](https://github.com/udhayprakash/udhayprakash)
+
+## Top Languages
+
 ![udhay's github stats](https://github-readme-stats.vercel.app/api?username=udhayprakash&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udhayprakash&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udhayprakash&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Where to find me</h3>
 <p>
