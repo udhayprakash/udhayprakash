@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Udhay's GitHub activity graph](https://img.shields.io/github/commit-activity/m/udhayprakash/udhayprakash?label=Commit%20Activity&logo=github&style=flat-square)](https://github.com/udhayprakash/udhayprakash)
-
 ## Top Languages
 
 ![udhay's github stats](https://github-readme-stats.vercel.app/api?username=udhayprakash&show_icons=true&theme=radical&count_private=true)
